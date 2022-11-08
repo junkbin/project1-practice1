@@ -8,8 +8,11 @@ git remote add origin https://github.com/junkbin/project1-practice1.git
 git push -u origin main
 
 
+// IF WE ARE DOING THIS GITHUB ACTIVITY FIRST TIME. 
+// THIS WILL PROMPT FOR USERNAME/PASSWORD
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/junkbin/project1-practice1.git
 git branch -M main
 git push -u origin main
+
